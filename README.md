@@ -14,7 +14,8 @@
 
 ### Screenshot
 
-![Screenshot 2022-04-24 200951](C:\dev\UdemyJS\CursoJS\exercicioCalculadora\img\Screenshot 2022-04-24 200951.png)
+![Screenshot 2022-04-24 200951](https://user-images.githubusercontent.com/99771586/165000605-44c5073d-d900-411b-8a49-ae855aba7813.png)
+
 
 ### Links
 
