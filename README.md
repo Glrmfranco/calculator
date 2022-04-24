@@ -1,4 +1,4 @@
-# calculo__IMC
+# Calculator
 
 ## Table of contents
 
